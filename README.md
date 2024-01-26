@@ -1,4 +1,4 @@
-# @GrazielleHenrique
+# GrazielleHenrique
 ## Analista de Dados
 
 ###  Formada em Análise e Desenvolvimento de Sistemas na Universidade Santa Cecília (UNISANTA);
