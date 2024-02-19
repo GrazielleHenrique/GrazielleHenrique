@@ -21,7 +21,7 @@
 
 <div>
  <img width="10%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original-wordmark.svg">
- <img width="8%" src="https://github.com/GrazielleHenrique/GrazielleHenrique/assets/152180192/0d1cd64c-670a-42f1-b879-4e3e4d0e30ee">
+ <img width="10%" src="https://github.com/GrazielleHenrique/GrazielleHenrique/assets/152180192/0d1cd64c-670a-42f1-b879-4e3e4d0e30ee">
  <img src= "https://github.com/GrazielleHenrique/GrazielleHenrique/assets/152180192/f757affa-7b11-4cfa-b1be-1a0f4ce48cd2">
 
           
