@@ -2,7 +2,7 @@
 ## Analista de Dados
 
 ###  Formada em Análise e Desenvolvimento de Sistemas na Universidade Santa Cecília [UNISANTA](https://unisanta.br/);
-###  Atualmente aluna do Bootcamp de Data Analitycs da [WoMakersCode](https://womakerscode.org/);
+###  Atualmente aluna do Bootcamp de Data Analytics da [WoMakersCode](https://womakerscode.org/);
 ###  Buscando aprimorar meus conhecimentos para entrar na área de Dados.
 
 
